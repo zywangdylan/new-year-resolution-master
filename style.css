@@ -1,18 +1,3 @@
-/* Write some CSS below */
-h1{
-  color: #fd1015;
-  background-color: yellow;
-  font-family: 'Overpass', sans-serif;
-}
-
-a{
-  text-decoration: none;
-}
-
-div h1{
-  margin: 60px;
-  padding: 30px;
-  border: 10px solid green;
-  border-radius: 50%;
-}
-
+/* No need to edit this file */
+@import "style_main.css";
+@import "style_responsive.css";
